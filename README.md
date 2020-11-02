@@ -1,7 +1,7 @@
 # CNN_IPMSM
-Part of "Towards End-to-end Deep Learning Analysis of Electrical Machines"
+Part of "Towards End-to-end Deep Learning Analysis of Electrical Machines" project
 
-This project aims at developing DL tools to facilitate high-speed AI-assisted analysis of Electrical Machines.
+This project aims to develop DL tools to facilitate high-speed AI-assisted analysis of Electrical Machines.
 Specifically, the topics of output curve prediction and optimal DL architectures are studied.
 
 This project contains codes used to train CNNs that predict output torque curves or average torque values.
