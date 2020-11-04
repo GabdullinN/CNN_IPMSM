@@ -14,3 +14,5 @@ Here "CNN_average_torque" file contains codes used to train models on datasets w
 
 Datasets as Pytorch tensors are available at:
 https://data.mendeley.com/datasets/j7bbrmmn4k/1
+
+Gabdullin N, 2020
